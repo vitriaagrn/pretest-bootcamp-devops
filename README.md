@@ -48,3 +48,14 @@ Silahkan buat docker-compose filenya, kemudian simpan dalam folder `tasks` denga
 2. Kenapa Orchestration Container System seperti Kubernetes sangat popular (menurut anda)?
 
 Cara pengerjaan, silahkan update file ini tulis jawabanya di bawah ini
+
+==> JAWABAN
+
+## Task 1
+
+## Task 2
+
+## Task 3 (Orchestration Container System)
+1. Orchestration Container System adalah suatu sistem untuk proses pengelolaan dan koordinasi beberapa container atau paket dalam suatu kelompok atau cluster. Lebih jelasnya, ketika membuat perintah orchestrator untuk membuat imitasi untuk container, maka orchestration ini akan membuatnya kemudian akan dilakukan peredaran ke beberapa host dalam satu cluster atau kelompok. 
+
+2. Karena proses orchestration pada kubernetes sangat cepat dan memiliki proses scale up (aplikasi tidak dibuat secara sekaligus). Pada kubernetes juga container satu dengan yang lainnya saling terhubung, ini juga dapat memudahkan proses Orchestration dalam mengedarkan ke beberapa host. 

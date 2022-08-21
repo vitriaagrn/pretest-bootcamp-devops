@@ -1,0 +1,10 @@
+version: "3.8"
+
+services: 
+  backend:
+    container_name: backend
+    image: `dimmaryanto93/udemy-springboot-app:latest`
+    port: 
+      -8080
+    env:
+      
